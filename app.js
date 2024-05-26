@@ -2,6 +2,8 @@ let notesContainer = document.querySelector('.notes-container')
 let createBtn = document.querySelector('.btn')
 let notes = document.querySelectorAll('.input-box')
 
+// this is for practing brancing
+
 createBtn.addEventListener('click', () => {
     let p = document.createElement('p')
     let img = document.createElement('img')
