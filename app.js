@@ -3,6 +3,7 @@ let createBtn = document.querySelector('.btn')
 let notes = document.querySelectorAll('.input-box')
 
 // this is for practing brancing
+// added some more comments
 
 createBtn.addEventListener('click', () => {
     let p = document.createElement('p')
